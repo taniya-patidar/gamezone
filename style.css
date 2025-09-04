@@ -1,0 +1,64 @@
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    gap: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: white;
+    background-color: black;
+
+}
+.para2{
+     display: flex;
+    justify-content:space-around;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: white;
+}
+#navbar2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+.para4{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    font-size: 19px;
+    padding-bottom: 16px;
+}
+#firstpage{
+    /* border: 2px solid black; */
+    height: 100vh;
+    width: 100%;
+    background-image: url(./dota-2-shadow-fiend-art-dark-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.man{
+    /* border: 2px solid white; */
+    background-image: url(./bgman-removebg-preview.png);
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 50%;
+    /* margin-left: 600px; */
+    
+}
+.firstblock{
+    /* border: 2px solid white; */
+    height: 50vh;
+    width: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
