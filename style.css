@@ -122,8 +122,42 @@
     
     background-repeat: no-repeat;
     border: 2px solid black;
-    height: 100vh;
+    height: 150vh;
     width: 100%;
-    background-image: url(./images.jpeg);
+    /* background-image: url(./1_3gskXmY1M5rNpxEkQqtVbg.jpg); */
+    background-color: white;
+    /* opacity: 0.2; */
     background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
+.secc1{
+    
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    height: 50vh;
+    width: 50%;
+    background-color: white;
+    /* opacity: 0.2; */
+    background-size: cover;
+    margin-top: 150px;
+
+}
+.secc2{
+    
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    height: 100vh;
+    width: 50%;
+    background-image: url(./1_3gskXmY1M5rNpxEkQqtVbg.jpg);
+    
+    background-size:cover;
+    background-position: center;
+    margin-top: 150px;
+}
+.gamee{
+    
+
+}
+
